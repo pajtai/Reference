@@ -11,5 +11,5 @@ Ubuntu
 * [Install Java](https://help.ubuntu.com/community/Java)
   * `sudo apt-get install -y openjdk-6-jre`  
   * `sudo apt-get install -y openjdk-7-jre`
-* `sudo apt-get install virtualbox`
-* `sudo apt-get install vagrant`
+* `sudo apt-get install -y virtualbox`
+* `sudo apt-get install -y vagrant`
