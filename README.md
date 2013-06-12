@@ -13,3 +13,5 @@ Ubuntu
   * `sudo apt-get install -y openjdk-7-jre`
 * `sudo apt-get install -y virtualbox`
 * `sudo apt-get install -y vagrant`
+* `sudo apt-get install -y git`
+  * `git config branch.autosetuprebase always`  
