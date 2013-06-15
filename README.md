@@ -15,3 +15,7 @@ Ubuntu
 * `sudo apt-get install -y vagrant`
 * `sudo apt-get install -y git`
   * `git config branch.autosetuprebase always`  
+* Install rvm and ruby
+  * `\curl -L https://get.rvm.io | bash -s stable --ruby`
+ * Install bundler
+  * `gem install bundler`
