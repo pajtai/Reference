@@ -12,8 +12,9 @@ defaults write com.apple.Finder AppleShowAllFiles YES
 * [Install Chrome](https://www.google.com/intl/en/chrome/browser/)
 * [Install TextWrangler](http://www.barebones.com/products/textwrangler/)
 * [Install SourceTree](http://www.sourcetreeapp.com/download/)
-* [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
 * Install XCode through the App Store
+ * Install command line tools: `Preferences > Downloads - install command line tools` 
+* [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
 * Install rvm and ruby  
 ```
 \curl -L https://get.rvm.io | bash -s stable --ruby
