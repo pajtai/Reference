@@ -16,6 +16,7 @@ defaults write com.apple.Finder AppleShowAllFiles YES
 * [Install Dropbox](https://www.dropbox.com/downloading?os=mac)
 * [Install TextWrangler](http://www.barebones.com/products/textwrangler/)
 * [Install SourceTree](http://www.sourcetreeapp.com/download/)
+* [Install SizeUp](http://www.irradiatedsoftware.com/sizeup/)
 * Install XCode through the App Store
  * Install command line tools: `Preferences > Downloads - install command line tools` 
 * [Install Java](http://www.java.com/en/download/mac_download.jsp?locale=en)
