@@ -52,6 +52,10 @@ nvm install v0.10.11
 ```
 nvm use v0.10.11
 ```
+* Install Grunt  
+```
+npm install -g grunt-cli
+```
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
