@@ -58,6 +58,10 @@ nvm use v0.10.11
 ```
 npm install -g grunt-cli
 ```
+* Install PhantomJS  
+```
+brew install phantomjs
+```
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
