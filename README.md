@@ -66,6 +66,10 @@ brew install phantomjs
 ```
 brew install mongodb
 ```
+* Install emacs  
+```
+brew install emacs
+```
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
