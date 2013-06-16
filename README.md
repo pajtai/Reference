@@ -17,6 +17,10 @@ defaults write com.apple.Finder AppleShowAllFiles YES
 * [Install Java](http://www.java.com/en/download/mac_download.jsp?locale=en)
  * and 6 through PHPStorm
 * [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
+* Install Home Brew  
+```
+ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+```
 * Install rvm and ruby  
 ```
 \curl -L https://get.rvm.io | bash -s stable --ruby
