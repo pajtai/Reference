@@ -1,8 +1,16 @@
 General references and files that are used throughout many projects.
 
-Steps to setup fresh system:
+## Steps to setup fresh system:
 
-Ubuntu
+### Mac
+
+* Mac all hidden files visible in finder:  
+```
+defaults write com.apple.Finder AppleShowAllFiles YES
+```
+ * Force quit (relaunch) the Finder
+
+### Ubuntu
 * `sudo apt-get install -y zsh`
 * `sudo apt-get install -y emacs`
 * Install Oh [My Zsh](https://github.com/robbyrussell/oh-my-zsh)
