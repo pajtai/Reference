@@ -25,6 +25,15 @@ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 ```
 \curl -L https://get.rvm.io | bash -s stable --ruby
 ```
+ * Make sure to follow directions to start using rvm, and close and reopen terminal
+* Install bundler  
+```gem install bundler```
+* Install Oh My Zsh  
+```
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+```
+* Port over [`.zshrz`](https://github.com/pajtai/Reference/blob/master/.zshrc)
+
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
