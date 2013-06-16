@@ -14,7 +14,8 @@ defaults write com.apple.Finder AppleShowAllFiles YES
 * [Install SourceTree](http://www.sourcetreeapp.com/download/)
 * Install XCode through the App Store
  * Install command line tools: `Preferences > Downloads - install command line tools` 
-* [Install Java](http://www.java.com/en/download/mac_download.jsp?locale=en) - and 6 for now too
+* [Install Java](http://www.java.com/en/download/mac_download.jsp?locale=en)
+ * and 6 through PHPStorm
 * [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
 * Install rvm and ruby  
 ```
