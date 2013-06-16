@@ -10,6 +10,7 @@ defaults write com.apple.Finder AppleShowAllFiles YES
 ```
  * Force quit (relaunch) the Finder
 * [Install Chrome](https://www.google.com/intl/en/chrome/browser/)
+* [Install Dropbox](https://www.dropbox.com/downloading?os=mac)
 * [Install TextWrangler](http://www.barebones.com/products/textwrangler/)
 * [Install SourceTree](http://www.sourcetreeapp.com/download/)
 * Install XCode through the App Store
@@ -33,7 +34,7 @@ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 ```
 * Port over [`.zshrz`](https://github.com/pajtai/Reference/blob/master/.zshrc)
-
+* Create SSH keys
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
