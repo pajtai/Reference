@@ -13,6 +13,11 @@ defaults write com.apple.Finder AppleShowAllFiles YES
 * [Install TextWrangler](http://www.barebones.com/products/textwrangler/)
 * [Install SourceTree](http://www.sourcetreeapp.com/download/)
 * [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
+* Install XCode through the App Store
+* Install rvm and ruby  
+```
+\curl -L https://get.rvm.io | bash -s stable --ruby
+```
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
