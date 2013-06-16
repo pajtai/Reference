@@ -38,6 +38,10 @@ curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | 
 ```
 * Port over [`.zshrz`](https://github.com/pajtai/Reference/blob/master/.zshrc)
 * Create SSH keys
+ * Use [this config file](https://github.com/pajtai/Reference/blob/master/.ssh/config) to see how to setup multiple SSH
+keys
+* Install NVM  
+```curl https://raw.github.com/creationix/nvm/master/install.sh | sh```
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
