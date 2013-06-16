@@ -43,6 +43,15 @@ keys
 * Install NVM  
 ```curl https://raw.github.com/creationix/nvm/master/install.sh | sh```
  * Port over changes to `.bash_profile` to `.zshrc`
+ * Install latest node through nvm
+```
+# example
+nvm install v0.10.11 
+```
+ * Add the use line to `.zshrc`
+```
+nvm use v0.10.11
+```
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
