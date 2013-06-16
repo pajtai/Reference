@@ -42,6 +42,7 @@ curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | 
 keys
 * Install NVM  
 ```curl https://raw.github.com/creationix/nvm/master/install.sh | sh```
+ * Port over changes to `.bash_profile` to `.zshrc`
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
