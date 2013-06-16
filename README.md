@@ -1,5 +1,8 @@
 General references and files that are used throughout many projects.
 
+_(Note: the `.ssh` directory does NOT contain any keys.... just a reminder as to how to setup multiple keys using a config
+file.)_
+
 ## Steps to setup fresh system:
 
 ### Mac
