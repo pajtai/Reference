@@ -62,6 +62,10 @@ npm install -g grunt-cli
 ```
 brew install phantomjs
 ```
+* Install MongoDB
+```
+brew install mongodb
+```
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
