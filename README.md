@@ -62,7 +62,7 @@ npm install -g grunt-cli
 ```
 brew install phantomjs
 ```
-* Install MongoDB
+* Install MongoDB  
 ```
 brew install mongodb
 ```
