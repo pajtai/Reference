@@ -41,6 +41,7 @@ curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | 
 * Create SSH keys
  * Use [this config file](https://github.com/pajtai/Reference/blob/master/.ssh/config) to see how to setup multiple SSH
 keys
+ * Add remotes using hostnames in config file
 * Install NVM  
 ```curl https://raw.github.com/creationix/nvm/master/install.sh | sh```
  * Port over changes to `.bash_profile` to `.zshrc`
