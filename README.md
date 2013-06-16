@@ -4,11 +4,15 @@ General references and files that are used throughout many projects.
 
 ### Mac
 
-* Mac all hidden files visible in finder:  
+* Make all hidden files visible in finder:  
 ```
 defaults write com.apple.Finder AppleShowAllFiles YES
 ```
  * Force quit (relaunch) the Finder
+* [Install Chrome](https://www.google.com/intl/en/chrome/browser/)
+* [Install TextWrangler](http://www.barebones.com/products/textwrangler/)
+* [Install SourceTree](http://www.sourcetreeapp.com/download/)
+* [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
