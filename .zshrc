@@ -58,5 +58,8 @@ export HISTFILESIZE=99999999
 bindkey "^[[A" history-search-backward
 bindkey "^[[B" history-search-forward
 
+[[ -s /Users/solidimac01/.nvm/nvm.sh ]] && . /Users/solidimac01/.nvm/nvm.sh # This loads NVM
+nvm use v0.10.1
+
 # Customize to your needs...
 export PATH=$PATH:/usr/local/opt/php54/bin:/Users/solidimac01/.nvm/v0.10.1/bin:/usr/local/opt/php54/bin:/Users/solidimac01/.rvm/gems/ruby-1.9.3-p194/bin:/Users/solidimac01/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/solidimac01/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/solidimac01/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/solidimac01/platform-tools:/Users/solidimac01/tools:/Development/android-sdk-macosx/platform-tools:/Development/android-sdk-macosx/tools:/Users/solidimac01/platform-tools:/Users/solidimac01/tools:/Development/android-sdk-macosx/platform-tools:/Development/android-sdk-macosx/tools
