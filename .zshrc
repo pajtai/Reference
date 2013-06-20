@@ -55,7 +55,7 @@ export SAVEHIST=999999
 export HISTFILESIZE=99999999
 
 # allow searching of history ctr-R with arrow keys
-bindkey “^[[A" history-search-backward
+bindkey "^[[A" history-search-backward
 bindkey "^[[B" history-search-forward
 
 # Customize to your needs...
