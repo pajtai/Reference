@@ -58,6 +58,7 @@ export HISTFILESIZE=99999999
 bindkey "^[[A" history-search-backward
 bindkey "^[[B" history-search-forward
 
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 [[ -s /Users/solidimac01/.nvm/nvm.sh ]] && . /Users/solidimac01/.nvm/nvm.sh # This loads NVM
 nvm use v0.10.1
 
