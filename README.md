@@ -65,13 +65,9 @@ nvm install v0.10.11
 ```
 nvm use v0.10.11
 ```
-* Install Grunt  
+* Install Grunt etc 
 ```
-npm install -g grunt-cli
-```
-* Install PhantomJS  
-```
-brew install phantomjs
+npm install -g grunt-cli bower phantomjs mocha-phantomjs
 ```
 * Install MongoDB  
 ```
@@ -81,6 +77,8 @@ brew install mongodb
 ```
 brew install emacs
 ```
+* Install [virtual box](https://www.virtualbox.org/wiki/Downloads)
+* Install [vagrant](http://www.vagrantup.com/)
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
