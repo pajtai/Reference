@@ -79,6 +79,8 @@ brew install emacs
 ```
 * Install [virtual box](https://www.virtualbox.org/wiki/Downloads)
 * Install [vagrant](http://www.vagrantup.com/)
+* Install [Skype](http://www.skype.com/en/)
+* Install [HipChat](https://www.hipchat.com/downloads#mac)
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
