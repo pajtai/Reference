@@ -81,6 +81,7 @@ brew install emacs
 * Install [vagrant](http://www.vagrantup.com/)
 * Install [Skype](http://www.skype.com/en/)
 * Install [HipChat](https://www.hipchat.com/downloads#mac)
+* Install [OpenOffice](https://github.com/pajtai/Reference)
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
