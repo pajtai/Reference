@@ -15,6 +15,8 @@ file.)_
  ```
  
  * Force quit (relaunch) the Finder
+* Sane dual dispaly support
+ * In Mission Control, uncheck, "Displays have separate Spaces"
 * [Install Chrome](https://www.google.com/intl/en/chrome/browser/)
 * [Install Dropbox](https://www.dropbox.com/downloading?os=mac)
 * [Install TextWrangler](http://www.barebones.com/products/textwrangler/)
@@ -27,6 +29,7 @@ file.)_
 * [Install Java](http://www.java.com/en/download/mac_download.jsp?locale=en)
  * and 6 through PHPStorm
 * [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
+* [Install AndroidStudio](http://developer.android.com/sdk/installing/studio.html)
 * Install Home Brew  
 ```
 ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
