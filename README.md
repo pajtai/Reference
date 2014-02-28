@@ -25,10 +25,13 @@ file.)_
 * [Install FlyCut](https://itunes.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12)
 * [Install f.lux](http://justgetflux.com/)
 * Install XCode through the App Store
- * Install command line tools: `Preferences > Downloads - install command line tools` 
-* [Install Java](http://www.java.com/en/download/mac_download.jsp?locale=en)
- * and 6 through PHPStorm
-* [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
+ * Install command line tools: 
+  
+  ```shell
+  xcode-select --install
+  ```
+
+* Install Java 6 through PHPStorm  [Install PHPStorm](http://www.jetbrains.com/phpstorm/)
 * [Install AndroidStudio](http://developer.android.com/sdk/installing/studio.html)
 * Install Home Brew  
 ```
