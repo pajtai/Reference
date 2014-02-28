@@ -10,7 +10,8 @@ file.)_
 * Make all hidden files visible in finder:  
 
  ```
- defaults write com.apple.Finder AppleShowAllFiles YES
+ defaults write com.apple.finder AppleShowAllFiles -boolean true
+ killall Finder
  ```
  
  * Force quit (relaunch) the Finder
@@ -18,8 +19,9 @@ file.)_
 * [Install Dropbox](https://www.dropbox.com/downloading?os=mac)
 * [Install TextWrangler](http://www.barebones.com/products/textwrangler/)
 * [Install SourceTree](http://www.sourcetreeapp.com/download/)
-* [Install SizeUp](http://www.irradiatedsoftware.com/sizeup/)
+* [Install Spectacle](http://spectacleapp.com/)
 * [Install FlyCut](https://itunes.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12)
+* [Install f.lux](http://justgetflux.com/)
 * Install XCode through the App Store
  * Install command line tools: `Preferences > Downloads - install command line tools` 
 * [Install Java](http://www.java.com/en/download/mac_download.jsp?locale=en)
