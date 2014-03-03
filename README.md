@@ -82,6 +82,7 @@ brew install emacs
 * Install [Skype](http://www.skype.com/en/)
 * Install [HipChat](https://www.hipchat.com/downloads#mac)
 * Install [OpenOffice](https://github.com/pajtai/Reference)
+* Setup any routing in `/private/etc/hosts` or wherever needed
 
 ### Ubuntu
 * `sudo apt-get install -y zsh`
