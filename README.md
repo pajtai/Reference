@@ -49,7 +49,7 @@ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 ```
 * Port over [`.zshrz`](https://github.com/pajtai/Reference/blob/master/.zshrc)
-* Create SSH keys
+* [Create SSH keys](https://help.github.com/articles/generating-ssh-keys/)
  * Use [this config file](https://github.com/pajtai/Reference/blob/master/.ssh/config) to see how to setup multiple SSH
 keys
  * Add remotes using hostnames in config file
