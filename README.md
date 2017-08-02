@@ -7,6 +7,41 @@ file.)_
 
 ### Mac
 
+---
+
+Updated install list
+	• Chrome
+	• Pub keys
+	• iTerm2 - https://www.iterm2.com/downloads.html
+	• Install Be Focused - https://itunes.apple.com/us/app/be-focused-focus-timer-goal-tracker-for-work/id973134470?mt=12
+	• Enable 3 finger drag - https://discussions.apple.com/thread/6869616?tstart=0
+	• Install spectacle - https://www.spectacleapp.com/
+	• Install brew - https://brew.sh/
+	• Install oh my zsh - http://ohmyz.sh/
+	• Install vundle - https://github.com/VundleVim/Vundle.vim
+	• Install correct mac fonts for vundle powerline ???
+	• Install Flycut https://itunes.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12
+	• Download phpstorm - https://www.jetbrains.com/phpstorm/download/#section=mac
+	• Install node via nvm - https://github.com/creationix/nvm#install-script
+	• Install mongo (brew install mongodb)
+	• Edit global git configs - git config --global --edit
+	• Install sourcetree - https://www.sourcetreeapp.com/
+	• Open key chain, prefernces, show lock in status bar
+	• Install skype - https://www.skype.com/en/download-skype/skype-for-mac/downloading/
+	• Brew install wget
+	• Install robomongo - https://robomongo.org/download
+	• Brew install mysql
+	• Install dropbox - https://www.dropbox.com/install
+	• Download Visual Studio Code - https://code.visualstudio.com/docs/?dv=osx
+	• Install sass sudo gem install sass --no-user-install 
+	• Install Elasticsearch - brew install elasticsearch ( brew cask install java )
+	• Brew install htop
+	• Install powerline fonts - https://github.com/powerline/fonts
+	• Install php7 - https://developerjack.com/blog/2016/installing-php71-with-homebrew/
+ • Install logictech drivers http://support.logitech.com/en_us/product/trackman-marble/downloads
+
+---
+
 * Make all hidden files visible in finder:  
 
  ```
