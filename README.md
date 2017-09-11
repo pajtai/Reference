@@ -40,6 +40,7 @@ Updated install list
 * Install powerline fonts - https://github.com/powerline/fonts
 * Install php7 - https://developerjack.com/blog/2016/installing-php71-with-homebrew/
 * Install logictech drivers http://support.logitech.com/en_us/product/trackman-marble/downloads
+* Install sequel pro - https://www.sequelpro.com/
 
 ---
 
